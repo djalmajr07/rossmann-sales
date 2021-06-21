@@ -1,7 +1,7 @@
 # Rossmann Stores 
 Sales Prediction with Machine Learning
 
-![Sales](https://github.com/djalmajr07/rossmann-sales/blob/main/img/sales-forecasting-metrics-1024x768.jpg)
+![Sales](https://github.com/djalmajr07/rossmann-sales/blob/main/img/0_7tM5SbKstuED5_AX.jpg)
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/djalmajr07/rossmann-sales/blob/main/LICENSE) 
 
@@ -21,40 +21,34 @@ This solutions has 3 main tasks:
 # How to use this project
 
 ## Pre-requirement
-- Sing up telegram
-- Create an account
-- Download telegram on desktop or mobile or [telegram web](https://web.telegram.org/)
+- Sing up telegram;
+- Create an account;
+- Download telegram on desktop or mobile or [telegram web](https://web.telegram.org/).
 
 # Telegram
-## Prediction In Real Time
+## Access to Telegram bot
 
 - Open this link and click on send message: https://t.me/RossmannPredSales_bot 
-![send_message](https://github.com/djalmajr07/rossmann-sales/blob/main/img/link-telegram.PNG)
+![send_message](https://github.com/djalmajr07/rossmann-sales/blob/main/img/link-telegram-message.PNG)
 
-
+## Prediction In Real Time
 - Send one number per time to recieve the store's prediction based on the next six weeks.
 
-
-
-## Layout web
 ![prediction](https://github.com/djalmajr07/rossmann-sales/blob/main/img/prediction.PNG)
 
+## Pay Attention
+-If [Rossmann bot](https://t.me/RossmannPredSales_bot ) recieve anything different from numbers, it will answer back: Store ID is Wrong. On this bot can occur to have some stores not available to have prediction, so it will answer back: Store Not Available. If it happens you can select another Store Id and move on.
 
--NOTE: If this bot(@RossmannPredSales) recieve anything different from numbers, it will answer back: Store ID is Wrong. On this bot can occur to have some stores not available to have prediction, so it will answer back: Store Not Available.
 ![possible-mistakes](https://github.com/djalmajr07/rossmann-sales/blob/main/img/possible-mistakes.PNG)
-
-
-
-
 
 # Tecnologias utilizadas
 
-- Jupyter
-- Python
+- Jupyter;
+- Python.
  
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Telegram
+- Back end: Heroku;
+- Front end web: Telegram;
 - Banco de dados: kaggle csv files.
 
 # Autor
