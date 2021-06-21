@@ -45,17 +45,17 @@ This solutions has 3 main tasks:
 ![possible-mistakes](https://github.com/djalmajr07/rossmann-sales/blob/main/img/possible-mistakes.PNG)
 
 
-# Tecnologias utilizadas
+# Technologies
 
 - Jupyter;
 - Python.
  
-## Implantação em produção
+## Deployment into production
 - Back end: Heroku;
 - Front end web: Telegram;
-- Banco de dados: kaggle csv files.
+- Database: kaggle csv files.
 
-# Autor
+# Author
 
 Djalma Luiz da Silva Junior
 
