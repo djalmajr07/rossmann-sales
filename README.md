@@ -59,6 +59,6 @@ This solutions has 3 main tasks:
 
 Djalma Luiz da Silva Junior
 
-https://www.linkedin.com/in/djalmajunior-automa%C3%A7%C3%A3o/
+Faça conexão comigo através do ![LinkedIn](https://www.linkedin.com/in/djalmajunior-automa%C3%A7%C3%A3o/)
 
 
