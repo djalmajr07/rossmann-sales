@@ -9,7 +9,7 @@ Sales Prediction with Machine Learning
 
 # Rossmann Prediction Problem
 
-The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, because the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms like time series to forecast most precisely how would be the store prediction for the next six weeks (forty-two days).
+The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms like time series to forecast most precisely how would be the store prediction for the next six weeks (forty-two days).
 
 
 This solutions has 3 main tasks:
@@ -23,12 +23,16 @@ This solutions has 3 main tasks:
 ## Pre-requirement
 - Sing up telegram;
 - Create an account;
-- Download telegram on desktop or mobile or [telegram web](https://web.telegram.org/).
+- Download telegram on desktop, mobile or telegram web.
+
+
 
 # Telegram
 ### Access to Telegram bot
 
-- Open this link and click on send message: https://t.me/RossmannPredSales_bot 
+- To access the telegram bot click below:
+- [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/RossmannPredSales_bot)
+
 ![send_message](https://github.com/djalmajr07/rossmann-sales/blob/main/img/link-telegram-message.PNG)
 
 ### Prediction In Real Time
