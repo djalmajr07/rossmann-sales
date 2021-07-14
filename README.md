@@ -165,6 +165,7 @@ It is now possible to analyze the metrics and compare the difference in performa
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/RossmannPredSales_bot)
 
+
 ![send_message](https://github.com/djalmajr07/rossmann-sales/blob/main/img/link-telegram-message.PNG)
 
 ### Prediction In Real Time
@@ -215,6 +216,10 @@ Possible points to be addressed in the second cycle:
 
 Djalma Luiz da Silva Junior
 
-Faça conexão comigo através do LinkedIn https://www.linkedin.com/in/djalmajunior-automa%C3%A7%C3%A3o/
+
+
+
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/djalmajunior-automa%C3%A7%C3%A3o/)
 
 
