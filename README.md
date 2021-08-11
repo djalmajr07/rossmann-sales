@@ -163,7 +163,7 @@ It is now possible to analyze the metrics and compare the difference in performa
 
 - To access the telegram bot click below:
 
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/RossmannPredSales_bot)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/GetRossmannPred_bot)
 
 
 ![send_message](https://github.com/djalmajr07/rossmann-sales/blob/main/img/link-telegram-message.PNG)
@@ -176,7 +176,7 @@ It is now possible to analyze the metrics and compare the difference in performa
 
 
 ### Pay Attention
--If [Rossmann bot](https://t.me/RossmannPredSales_bot ) recieve anything different from numbers, it will answer back: Store ID is Wrong. On this bot can occur to have some stores not available to have prediction, so it will answer back: Store Not Available. If it happens you can select another Store Id and move on.
+-If [Rossmann bot](https://t.me/GetRossmannPred_bot) recieve anything different from numbers, it will answer back: Store ID is Wrong. On this bot can occur to have some stores not available to have prediction, so it will answer back: Store Not Available. If it happens you can select another Store Id and move on.
 
 
 ![possible-mistakes](https://github.com/djalmajr07/rossmann-sales/blob/main/img/possible-mistakes.PNG)
