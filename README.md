@@ -172,14 +172,14 @@ It is now possible to analyze the metrics and compare the difference in performa
 - Send one number per time to recieve the store's prediction based on the next six weeks.
 
 
-![prediction](https://github.com/djalmajr07/rossmann-sales/blob/main/img/prediction.PNG)
+![prediction](https://github.com/djalmajr07/rossmann-sales/blob/main/img/prediction_.PNG)
 
 
 ### Pay Attention
 -If [Rossmann bot](https://t.me/GetRossmannPred_bot) recieve anything different from numbers, it will answer back: Store ID is Wrong. On this bot can occur to have some stores not available to have prediction, so it will answer back: Store Not Available. If it happens you can select another Store Id and move on.
 
 
-![possible-mistakes](https://github.com/djalmajr07/rossmann-sales/blob/main/img/possible-mistakes.PNG)
+![possible-mistakes](https://github.com/djalmajr07/rossmann-sales/blob/main/img/possible-mistakes_.PNG)
 
 #  Conclusion
 
