@@ -73,7 +73,7 @@ The method applied was CRISP-DM:
 
 ![H2](https://github.com/djalmajr07/rossmann-sales/blob/main/img/H2.PNG)
 
-**Hypothesis H9.** Store stores sell more over the years.
+**Hypothesis H9.** Stores sell more over the years.
 
 **FALSE**: Stores sell less over the years
 
