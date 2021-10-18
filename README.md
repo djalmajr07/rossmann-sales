@@ -16,7 +16,7 @@ The CFO requests the prediction of each store in a monthly meeting, whereas she 
 
 - The days when stores were closed were ruled out.
 - Only stores with sales values greater than 0 were considered.
-- For stores that did not have Competition Distance information, it was assumed that the distance would be two times greater than the greatest distance from a nearest competitor.
+- For stores that did not have Competition Distance information, it was assumed that the distance would be 200000.
 
 # Attribute List
 
